@@ -1,0 +1,2 @@
+# logseq
+https://logseq.com/
